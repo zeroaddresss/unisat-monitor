@@ -1,0 +1,12 @@
+{
+  "apiKeys": ["", "", ""],
+  "protocol": "brc20",
+  "collections": ["wzrd", "pups", "rats", "pepe"],
+  "timeout": 3500,
+  "delay": 1500,
+  "maxRetries": 10,
+  "webhooks": {
+    "channel1": "",
+    "channel2": ""
+  }
+}
