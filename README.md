@@ -2,17 +2,17 @@
 
 ## Table of Contents
 
-- [🚀 Introduction](https://github.com/zeroaddresss/unisat-monitor/edit/main/README.md#-introduction)
-- [🔍 Project Overview](https://github.com/zeroaddresss/unisat-monitor/edit/main/README.md#-project-overview)
-- [✨ Features](https://github.com/zeroaddresss/unisat-monitor/edit/main/README.md#-features)
-- [🏁 Getting Started](https://github.com/zeroaddresss/unisat-monitor/edit/main/README.md#-getting-started)
-  - [Prerequisites](https://github.com/zeroaddresss/unisat-monitor/edit/main/README.md#prerequisites)
-  - [🔑 API Key Information](https://github.com/zeroaddresss/unisat-monitor/edit/main/README.md#-api-key-information)
-  - [⚙️ Configuration](https://github.com/zeroaddresss/unisat-monitor/edit/main/README.md#%EF%B8%8F-configuration )
-  - [📦 Installation and Usage](https://github.com/zeroaddresss/unisat-monitor/edit/main/README.md#-installation-and-usage)
-- [🎥 Demo](https://github.com/zeroaddresss/unisat-monitor/edit/main/README.md#-demo)
-- [🤝🏻 Contributing](https://github.com/zeroaddresss/unisat-monitor/edit/main/README.md#-contributing)
-- [⚠️ Disclaimer](https://github.com/zeroaddresss/unisat-monitor/edit/main/README.md#%EF%B8%8F-disclaimer)
+- [🚀 Introduction](https://github.com/zeroaddresss/unisat-monitor/tree/main?tab=readme-ov-file#-introduction)
+- [🔍 Project Overview](https://github.com/zeroaddresss/unisat-monitor/tree/main?tab=readme-ov-file#-project-overview)
+- [✨ Features](https://github.com/zeroaddresss/unisat-monitor/tree/main?tab=readme-ov-file#-features)
+- [🏁 Getting Started](https://github.com/zeroaddresss/unisat-monitor/tree/main?tab=readme-ov-file#-getting-started)
+  - [Prerequisites](https://github.com/zeroaddresss/unisat-monitor/tree/main?tab=readme-ov-file#-rerequisites)
+  - [🔑 API Key Information](https://github.com/zeroaddresss/unisat-monitor/tree/main?tab=readme-ov-file#-api-key-information)
+  - [⚙️ Configuration](https://github.com/zeroaddresss/unisat-monitor/tree/main?tab=readme-ov-file#%EF%B8%8F-configuration )
+  - [📦 Installation and Usage](https://github.com/zeroaddresss/unisat-monitor/tree/main?tab=readme-ov-file#-installation-and-usage)
+- [🎥 Demo](https://github.com/zeroaddresss/unisat-monitor/tree/main?tab=readme-ov-file#-demo)
+- [🤝🏻 Contributing](https://github.com/zeroaddresss/unisat-monitor/tree/main?tab=readme-ov-file#-contributing)
+- [⚠️ Disclaimer](https://github.com/zeroaddresss/unisat-monitor/tree/main?tab=readme-ov-file#%EF%B8%8F-disclaimer)
 
 ## 🚀 Introduction
 
