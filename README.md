@@ -69,8 +69,8 @@ Before running the bot, user must populate the `config.json` file with the desir
 2. Clone the repository:
 
    ```sh
-   git clone [repository-link]
-   cd [repository-name]
+   git clone https://github.com/zeroaddresss/unisat-monitor.git
+   cd unisat-monitor
    ```
 
 3. Run the program:
