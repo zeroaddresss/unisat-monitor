@@ -2,17 +2,17 @@
 
 ## Table of Contents
 
-- [🚀 Introduction](#introduction)
-- [🔍 Project Overview](#project-overview)
-- [✨ Features](#features)
-- [🏁 Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [🔑 API Key Information](#api-key-information)
-  - [⚙️ Configuration](#configuration)
-  - [📦 Installation and Usage](#installation-and-usage)
-- [🎥 Demo](#demo)
-- [🤝🏻 Contributing](#contributing)
-- [⚠️ Disclaimer](#disclaimer)
+- [🚀 Introduction](https://github.com/zeroaddresss/unisat-monitor/tree/main?tab=readme-ov-file#-introduction)
+- [🔍 Project Overview](https://github.com/zeroaddresss/unisat-monitor/tree/main?tab=readme-ov-file#-project-overview)
+- [✨ Features](https://github.com/zeroaddresss/unisat-monitor/tree/main?tab=readme-ov-file#-features)
+- [🏁 Getting Started](https://github.com/zeroaddresss/unisat-monitor/tree/main?tab=readme-ov-file#-getting-started)
+  - [Prerequisites](https://github.com/zeroaddresss/unisat-monitor/tree/main?tab=readme-ov-file#-rerequisites)
+  - [🔑 API Key Information](https://github.com/zeroaddresss/unisat-monitor/tree/main?tab=readme-ov-file#-api-key-information)
+  - [⚙️ Configuration](https://github.com/zeroaddresss/unisat-monitor/tree/main?tab=readme-ov-file#%EF%B8%8F-configuration)
+  - [📦 Installation and Usage](https://github.com/zeroaddresss/unisat-monitor/tree/main?tab=readme-ov-file#-installation-and-usage)
+- [🎥 Demo](https://github.com/zeroaddresss/unisat-monitor/tree/main?tab=readme-ov-file#-demo)
+- [🤝🏻 Contributing](https://github.com/zeroaddresss/unisat-monitor/tree/main?tab=readme-ov-file#-contributing)
+- [⚠️ Disclaimer](https://github.com/zeroaddresss/unisat-monitor/tree/main?tab=readme-ov-file#%EF%B8%8F-disclaimer)
 
 ## 🚀 Introduction
 
@@ -69,8 +69,8 @@ Before running the bot, user must populate the `config.json` file with the desir
 2. Clone the repository:
 
    ```sh
-   git clone [repository-link]
-   cd [repository-name]
+   git clone https://github.com/zeroaddresss/unisat-monitor.git
+   cd unisat-monitor
    ```
 
 3. Run the program:
@@ -89,7 +89,7 @@ Before running the bot, user must populate the `config.json` file with the desir
 
    ```sh
    make build
-   ./bin/projectName
+   ./bin/unisat-monitor
    ```
 
 5. (Optional) Clear the bin directory:
@@ -100,10 +100,11 @@ Before running the bot, user must populate the `config.json` file with the desir
 
 ## 🎥 Demo
 
-[asciinema](link)
+![demo](https://github.com/zeroaddresss/unisat-monitor/assets/97956131/02238f7c-7143-4965-a678-ccaad61127fc)
 
 The bot can catch opportunities with great profit margins: over multiple days of monitoring, the greatest opportunity recorded (in terms of %) was the following, with a listing mistakenly placed at a price **90% lower** than the floor price:
-[screenshot](link)
+
+![Screenshot 2024-07-03 alle 14 23 48](https://github.com/zeroaddresss/unisat-monitor/assets/97956131/23336653-b8f7-4979-b78e-2121f12c862c)
 
 ## 🤝 Contributing
 
